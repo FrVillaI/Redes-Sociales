@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "'Monaspace Krypton'",
+    "editor.fontLigatures": "'calt', 'liga', 'dlig', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07'",
+    "editor.fontSize": 14,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#2D2F19",
+        "titleBar.activeBackground": "#404223",
+        "titleBar.activeForeground": "#FAFAF6"
+    }
+}
